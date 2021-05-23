@@ -6,9 +6,8 @@
 <div class="container">
 
 <header>
-   <h1>Welcome to My Bank</h1>
-</header>
-  
+   <h1>Welcome to Top  Bank </h1>
+</headeer>  
 <nav >
   <ul>
     <li><a href="#article1"><h1>Service One</h1></a></li>
